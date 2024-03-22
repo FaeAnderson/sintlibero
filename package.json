@@ -1,0 +1,25 @@
+{
+  "name": "sintlibero",
+  "version": "1.0.0",
+  "description": "create block chain address , such as ltc, btc, eth ....and so on ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaeAnderson/sintlibero.git"
+  },
+  "keywords": [
+    "a",
+    "rerum",
+    "voluptates",
+    "address",
+    "privateKey"
+  ],
+  "author": "RosemaryRunolfsdottir",
+  "license": "ISC",
+  "dependencies": {
+    "coininfo": "^3.1.0",
+    "coinkey": "^2.0.0",
+    "coinstring": "^2.3.0",
+    "ethereumjs-util": "^5.1.3"
+  }
+}
